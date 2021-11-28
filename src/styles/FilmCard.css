@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  font-family: "Quicksand", sans-serif;
+  row-gap: 2%;
+}
+
+main section {
+  width: 25%;
+  padding: 2%;
+  margin: 2%;
+  font-weight: 400;
+  border: 2px solid black;
+  border-radius: 20%;
+}
+
+main section h1 {
+  font-weight: 600;
+}
+/*# sourceMappingURL=FilmCard.css.map */
