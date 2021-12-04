@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
   - [Link to Site](#link-to-site)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,6 +17,9 @@
 ### Link to Site
 
 [Active site link](https://rboz1.github.io/ghibli_films/)
+
+###Screenshot
+![screenshot](./screenshot.jpg)
 
 ## My process
 
