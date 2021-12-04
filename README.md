@@ -18,7 +18,7 @@
 
 [Active site link](https://rboz1.github.io/ghibli_films/)
 
-###Screenshot
+### Screenshot
 ![screenshot](./screenshot.jpg)
 
 ## My process
