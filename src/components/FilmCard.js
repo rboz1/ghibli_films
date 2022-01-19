@@ -2,8 +2,8 @@ import React from 'react';
 import '../styles/FilmCard.css'
 
 export class FilmCard extends React.Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
           error: null,
           isLoading: false,
